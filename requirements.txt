@@ -1,0 +1,5 @@
+param
+json
+panel=0.12.1
+jupyter
+notebook
